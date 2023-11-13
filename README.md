@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="./app/assets/images/logomincraft4unowhy.png" width="150px" height="150px" alt="minecraft for unowhy"></p>
 
 <h1 align="center">Minecraft For Unowhy</h1>
 
