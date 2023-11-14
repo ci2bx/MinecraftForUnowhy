@@ -1,4 +1,4 @@
-[ejs.landing]
+f[ejs.landing]
 updateAvailableTooltip = "Mise a jour disponible"
 usernamePlaceholder = "Nom d'utilisateur"
 usernameEditButton = "Modifier"
@@ -185,7 +185,7 @@ javaInstalled = "Java installé!"
 [js.landing.dlAsync]
 loadingServerInfo = "Chargement des informations de jeu..."
 fatalError = "Erreur fatale"
-unableToLoadDistributionIndex = "Erreur lors du chargement de l'index des ressources. Veuillez verifiez la console pour plus d'informations."
+unableToLoadDistributionIndex = "Erreur lors du chargement de l'index des ressources. Si vous êtes connécté sur le réseau de votre Lycée, connectez vous à un partage de connextion. Sinon, vérifiez votre connection Internet."
 pleaseWait = "Veuillez patientez..."
 errorDuringLaunchTitle = "Erreur au lancement"
 seeConsoleForDetails = "Veuillez verifiez la console pour plus d'informations."
